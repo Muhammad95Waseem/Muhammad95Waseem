@@ -45,5 +45,5 @@ How this works:
 ---
 
 ### 📫 Reach out
-*   **LinkedIn:** [[Link to your profile](https://www.linkedin.com/in/mwaseemc/)]
+*   **LinkedIn:** [https://www.linkedin.com/in/mwaseemc/](https://www.linkedin.com/in/mwaseemc/)]
 *   **Hugging Face:** [https://huggingface.co/mohammad-waseem](https://huggingface.co/Mohammad-Waseem)]
