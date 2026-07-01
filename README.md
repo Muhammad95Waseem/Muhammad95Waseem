@@ -40,7 +40,6 @@ I am a **Aspirants Data Scientist** and Computer Science student at Sukkur IBA U
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/hugging_face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-How this works:
 
 ---
 
