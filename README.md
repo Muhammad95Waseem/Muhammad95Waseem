@@ -44,5 +44,6 @@ I am a **Aspirants Data Scientist** and Computer Science student at Sukkur IBA U
 ---
 
 ### 📫 Reach out
-*   **LinkedIn:** [https://www.linkedin.com/in/mwaseemc/](https://www.linkedin.com/in/mwaseemc/)]
-*   **Hugging Face:** [https://huggingface.co/mohammad-waseem](https://huggingface.co/Mohammad-Waseem)]
+*   **Portfolio Website** [https://muhammad95waseem.github.io/](https://muhammad95waseem.github.io/)
+*   **LinkedIn:** [https://www.linkedin.com/in/mwaseemc/](https://www.linkedin.com/in/mwaseemc/)
+*   **Hugging Face:** [https://huggingface.co/mohammad-waseem](https://huggingface.co/Mohammad-Waseem)
